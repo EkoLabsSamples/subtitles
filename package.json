@@ -1,9 +1,13 @@
 {
-    "name": "23f54820-0903-11e9-95bb-b569785d06c1",
+    "name": "subtitles_example",
     "version": "1.0.0",
-    "description": "This is an Eko project. To learn how to interact with the code in the `src/` folder, see the [Eko Developer Documentation](https://developer.helloeko.com).",
+    "description": "This is an Eko project example. To learn how to add subtitles to a project. see the [Eko Developer Documentation](https://developer.helloeko.com/api/subtitles.html).",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "./node_modules/.bin/eko studio test -p 8080"
+    },
+    "devDependencies": {
+        "eko-cli": "*"
     },
     "keywords": [],
     "author": "",
