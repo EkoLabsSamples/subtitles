@@ -1,0 +1,14 @@
+{
+    "name": "23f54820-0903-11e9-95bb-b569785d06c1",
+    "version": "1.0.0",
+    "description": "This is an Eko project. To learn how to interact with the code in the `src/` folder, see the [Eko Developer Documentation](https://developer.helloeko.com).",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "eko": {
+        "id": "23f54820-0903-11e9-95bb-b569785d06c1"
+    }
+}
