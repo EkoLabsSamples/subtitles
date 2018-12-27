@@ -1,0 +1,46 @@
+1
+00:00:00,000 --> 00:00:01,600
+Ha pasado un minuto, Jill
+Cómo estás?
+
+2
+00:00:01,650 --> 00:00:05,900
+Oh, estoy muy bien, sí
+Y cómo estás? Dime cualquier cosa, todo ...
+
+3
+00:00:06,200 --> 00:00:09,000
+Oh me conoces El mismo viejo yo
+excepto...
+
+4
+00:00:09,500 --> 00:00:11,000
+ya sabes...
+
+5
+00:00:10,700 --> 00:00:12,000
+Notaste algo diferente en mi?
+
+6
+00:00:12,100 --> 00:00:13,500
+Hmmm....
+
+7
+00:00:14,200 --> 00:00:16,000
+Una pequeña irregularidad?
+
+8
+00:00:16,800 --> 00:00:18,000
+Sí! yo...
+
+9
+00:00:18,200 --> 00:00:21,000
+Al igual que una cosa diferente única ...
+
+10
+00:00:21,240 --> 00:00:24,000
+Uh-huh... Hmmm....
+
+11
+00:00:24,800 --> 00:00:26,000
+Hmmm....
